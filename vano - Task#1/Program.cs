@@ -20,7 +20,7 @@
             Console.WriteLine(fullName);
 
             var about = $"my age is: {age}, my gender is: {gender} ";
-            Console.WriteLine(about);  
+            Console.WriteLine(about);   
         }
     }
 }
